@@ -32,9 +32,13 @@ Ensure you have the following installed before setting up the project:
 - **Authentication**: JWT-based authentication for secure login.
 
 ## Screenshots
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
+![Screenshot 2024-10-08 100925](https://github.com/user-attachments/assets/936b1f94-02c1-427e-ba77-697dffaaf1d7)
+![Screenshot 2024-10-08 100947](https://github.com/user-attachments/assets/ba8616f9-6949-4fdc-9275-9d5cde52e02e)
+![Screenshot 2024-10-08 101002](https://github.com/user-attachments/assets/05842787-5257-46af-9084-542cefccba35)
+
+
+
+
 
 ## Configuration
 1. **Environment Variables**: Ensure that the following environment variables are set:
